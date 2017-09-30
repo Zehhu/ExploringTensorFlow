@@ -1,7 +1,7 @@
 # ExploringTensorFlow
 Example model for getting started with TensorFlow using TFLearn using a simple Ham or Spam score model. 
 
-##Overview
+## Overview
 
 This is some of the example code used in my presentation for Exploring TensorFlow. 
 
